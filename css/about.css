@@ -1,0 +1,54 @@
+/* Estilos para la sección "Acerca de" */
+.about {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+.about_box {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.titlepage h2 {
+    font-size: 60px;
+    margin-bottom: 10px;
+}
+
+.titlepage .yellow {
+    color: #038a3b;
+}
+
+.about_box h3, .about_box h4, .about_box h5 {
+
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold; /* Agrega negritas */
+}
+
+
+.about_box p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-align: justify; /* Justificar el texto */
+}
+
+
+/* Agrega estos estilos para la lista de responsabilidades */
+.responsibilities-list {
+    margin-top: 10px;
+    padding-left: 20px;
+    text-align: justify; /* Justificar el texto */
+
+}
+
+.responsibilities-list li {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+
+
+
